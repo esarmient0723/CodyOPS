@@ -1,4 +1,4 @@
 # CodyOPS
 ## Curso GIT
-Hola Mundo
-2 MUNDO
+Edwin Sarmiento
+Hola Mundo!
