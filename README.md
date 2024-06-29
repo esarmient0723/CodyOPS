@@ -1,3 +1,0 @@
-# CodyOPS
-## Curso GIT
-
